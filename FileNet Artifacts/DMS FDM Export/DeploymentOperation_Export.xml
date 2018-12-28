@@ -1,0 +1,7 @@
+<DeploymentOperation deploymentTreeLocation="C:\Program Files (x86)\IBM\FileNet\ContentEngine\tools\deploy\P8DeploymentData" version="5.2.0">
+	<CEExport deleteDestinationFilesOnError="true">
+		<Environment>DMSClass</Environment>
+		<ExportManifest>C:\Program Files (x86)\IBM\FileNet\ContentEngine\tools\deploy\P8DeploymentData\Environments\DMSClass\Assets\ExportManifests\DMS FDM Export.xml</ExportManifest>
+		<DeployDataSet>C:\Program Files (x86)\IBM\FileNet\ContentEngine\tools\deploy\P8DeploymentData\Environments\DMSClass\Assets\DMS FDM Export</DeployDataSet>
+	</CEExport>
+</DeploymentOperation>

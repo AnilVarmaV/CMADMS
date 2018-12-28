@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><FileNetExportCatalog version="1">
+	<DeploymentTreeLocation>C:\Program Files (x86)\IBM\FileNet\ContentEngine\tools\deploy\P8DeploymentData</DeploymentTreeLocation>
+	<SourceEnvironment>DMSClass</SourceEnvironment>
+	<ExportOperationFile>DeploymentOperation_Export.xml</ExportOperationFile>
+	<ExportManifestFile>DMS FDM Export.xml</ExportManifestFile>
+	<ExportLogFile>C:\Program Files (x86)\IBM\FileNet\ContentEngine\tools\deploy\P8DeploymentData\Temp\Run.2018.12.28.22.15.14\export.log</ExportLogFile>
+	<ConvertOperationFile/>
+	<SourcePrimaryObjectStoreName>FNOS</SourcePrimaryObjectStoreName>
+	<ExportStartTime>2018-12-28 22:15:14 IST</ExportStartTime>
+	<DatasetFiles>
+		<DatasetFile>deployDataSet1.xml</DatasetFile>
+	</DatasetFiles>
+	<ObjectListFile>ObjectList.xml</ObjectListFile>
+	<NumberOfObjectsExported>97</NumberOfObjectsExported>
+	<ExportEndTime>2018-12-28 22:15:21 IST</ExportEndTime>
+		<DestinationEnvironment/>
+	<DestinationPrimaryObjectStoreName>FNOS</DestinationPrimaryObjectStoreName>
+</FileNetExportCatalog>
