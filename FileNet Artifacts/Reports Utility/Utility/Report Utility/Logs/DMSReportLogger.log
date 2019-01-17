@@ -1,0 +1,210 @@
+2019-01-17 16:53:24 INFO  DBdatacapreport:33 - **** Enter class EzJava
+2019-01-17 16:53:24 INFO  DBdatacapreport:40 - **** Loaded the JDBC driver
+2019-01-17 16:53:24 INFO  DBdatacapreport:45 - **** Created a JDBC connection to the data sourcecom.ibm.db2.jcc.t4.b@17eaaca
+2019-01-17 16:53:24 INFO  DBdatacapreport:48 - **** Created JDBC Statement object
+2019-01-17 16:53:24 INFO  DBdatacapreport:51 - **** Created JDBC ResultSet object
+2019-01-17 16:53:24 INFO  DBdatacapreport:58 - Status of pending documents Count= 0
+2019-01-17 16:53:24 INFO  DBdatacapreport:62 - **** Fetched all rows from JDBC ResultSet
+2019-01-17 16:53:24 INFO  DBdatacapreport:65 - **** Closed JDBC ResultSet
+2019-01-17 16:53:24 INFO  DBdatacapreport:68 - **** Closed JDBC Statement
+2019-01-17 16:53:24 INFO  DBdatacapreport:71 - **** Transaction committed
+2019-01-17 16:53:24 INFO  DBdatacapreport:74 - **** Disconnected from data source
+2019-01-17 16:53:24 INFO  DBdatacapreport:76 - **** JDBC Exit from class EzJava - no errors
+2019-01-17 16:53:24 INFO  EdelweissOperation:70 - com.mits.edelweis.export.FileNetConnection@625c49
+2019-01-17 16:53:24 INFO  FileNetConnection:90 - Encry :::::::pw21B6B1CE113C07DB5206279B2BF29DE6
+2019-01-17 16:53:24 INFO  FileNetConnection:92 - decryptPW :::::::pwmits123$
+2019-01-17 16:53:24 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-17 16:53:24 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-17 16:53:25 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-17 16:53:25 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-17 16:53:25 INFO  FileNetConnection:108 - true
+2019-01-17 16:53:25 INFO  FileNetConnection:109 - VWSession=PECON
+2019-01-17 16:53:25 INFO  FileNetConnection:110 - Log on succesful
+2019-01-17 16:53:25 INFO  EdelweissOperation:72 - createPEConnection+++++++PECON
+2019-01-17 16:53:25 INFO  EdelweissOperation:73 - this is session++++true
+2019-01-17 16:53:25 INFO  EdelweissOperation:82 - wob param value:::::::::::::Prime Broking
+2019-01-17 16:53:25 INFO  EdelweissOperation:83 - wob param value Client:::::::::::::Test
+2019-01-17 16:53:25 INFO  EdelweissOperation:84 - wob param value PacketId:::::::::::::null
+2019-01-17 16:53:25 INFO  EdelweissOperation:85 - value:::::::::::Test
+2019-01-17 16:53:25 INFO  EdelweissOperation:101 - jsonObject::::::::::::::{"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","Product":"AIF","SBU":"Prime Services","TagDate":"01\/04\/2019 11:55:48","UniqueId":"TestAIF","ScanDate":"01\/04\/2019 11:55:48","Client":"Test","Entity":"Edelweiss Financial Services Inc."}
+2019-01-17 16:53:25 INFO  EdelweissOperation:144 - date value Thu Jan 17 14:09:15 IST 2019
+2019-01-17 16:53:25 INFO  EdelweissOperation:149 - field valuesIn Progress
+2019-01-17 16:53:25 INFO  EdelweissOperation:154 - field values after if
+2019-01-17 16:53:25 INFO  EdelweissOperation:164 - Date of Archival:::::::::::Fri Jan 04 11:55:48 IST 2019
+2019-01-17 16:53:25 INFO  EdelweissOperation:82 - wob param value:::::::::::::Prime Broking
+2019-01-17 16:53:25 INFO  EdelweissOperation:83 - wob param value Client:::::::::::::Test
+2019-01-17 16:53:25 INFO  EdelweissOperation:84 - wob param value PacketId:::::::::::::null
+2019-01-17 16:53:25 INFO  EdelweissOperation:85 - value:::::::::::Test
+2019-01-17 16:53:25 INFO  EdelweissOperation:101 - jsonObject::::::::::::::{"Status":"In Progress","RecordName":"IM AGREEMENT","LOB":"Prime Broking","Product":"AIF","SBU":"Prime Services","TagDate":"01\/04\/2019 11:55:48","UniqueId":"TestAIF","ScanDate":"01\/04\/2019 11:55:48","Client":"Test","Entity":"Edelweiss Securities (Hong Kong) Private Limited"}
+2019-01-17 16:53:25 INFO  EdelweissOperation:144 - date value Thu Jan 17 12:50:57 IST 2019
+2019-01-17 16:53:25 INFO  EdelweissOperation:149 - field valuesIn Progress
+2019-01-17 16:53:25 INFO  EdelweissOperation:154 - field values after if
+2019-01-17 16:53:25 INFO  EdelweissOperation:164 - Date of Archival:::::::::::Fri Jan 04 11:55:48 IST 2019
+2019-01-17 16:53:25 INFO  EdelweissOperation:82 - wob param value:::::::::::::Prime Broking
+2019-01-17 16:53:25 INFO  EdelweissOperation:83 - wob param value Client:::::::::::::Test
+2019-01-17 16:53:25 INFO  EdelweissOperation:84 - wob param value PacketId:::::::::::::null
+2019-01-17 16:53:25 INFO  EdelweissOperation:85 - value:::::::::::Test
+2019-01-17 16:53:25 INFO  EdelweissOperation:101 - jsonObject::::::::::::::{"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","Product":"AIF","SBU":"Prime Services","TagDate":"01\/04\/2019 11:55:48","UniqueId":"TestAIF","ScanDate":"01\/04\/2019 11:55:48","Client":"Test","Entity":"Edelweiss Financial Services Inc."}
+2019-01-17 16:53:25 INFO  EdelweissOperation:144 - date value Thu Jan 17 14:12:06 IST 2019
+2019-01-17 16:53:25 INFO  EdelweissOperation:149 - field valuesIn Progress
+2019-01-17 16:53:25 INFO  EdelweissOperation:154 - field values after if
+2019-01-17 16:53:25 INFO  EdelweissOperation:164 - Date of Archival:::::::::::Fri Jan 04 11:55:48 IST 2019
+2019-01-17 16:53:25 INFO  EdelweissOperation:206 - JSONNarray:::::[{"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:09:15 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"In Progress","RecordName":"IM AGREEMENT","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 12:50:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Securities (Hong Kong) Private Limited"}, {"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:12:06 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}]::::Roster In Progress Count::::3
+2019-01-17 16:53:25 INFO  Eventlogreport:51 - com.mits.edelweis.export.FileNetConnection@c424a4
+2019-01-17 16:53:25 INFO  FileNetConnection:90 - Encry :::::::pw21B6B1CE113C07DB5206279B2BF29DE6
+2019-01-17 16:53:25 INFO  FileNetConnection:92 - decryptPW :::::::pwmits123$
+2019-01-17 16:53:25 INFO  FileNetConnection:108 - true
+2019-01-17 16:53:25 INFO  FileNetConnection:109 - VWSession=PECON
+2019-01-17 16:53:25 INFO  FileNetConnection:110 - Log on succesful
+2019-01-17 16:53:25 INFO  Eventlogreport:54 - createPEConnection+++++++PECON
+2019-01-17 16:53:25 INFO  Eventlogreport:55 - this is session++++true
+2019-01-17 16:53:25 INFO  Eventlogreport:58 - Before Event log
+2019-01-17 16:53:25 INFO  Eventlogreport:71 - Log Element Count: 13
+2019-01-17 16:53:25 INFO  Eventlogreport:81 - Client value:::::Test2
+2019-01-17 16:53:25 INFO  Eventlogreport:101 - WF_Created date::::::::::::::01/16/2019 14:32:57
+2019-01-17 16:53:25 INFO  Eventlogreport:102 - jsonObject::::::::::::::{"Status":"Archived","RecordName":"MLA","LOB":"Prime Broking","Product":"LAS","SBU":"Prime Services","UniqueId":"Test2LAS","Client":"Test2","Entity":"Edelweiss Custodial Services Limited"}
+2019-01-17 16:53:25 INFO  Eventlogreport:139 - date value Wed Jan 16 14:32:57 IST 2019
+2019-01-17 16:53:25 INFO  Eventlogreport:154 - JSONarray:::::[{"Status":"Archived","RecordName":"MLA","LOB":"Prime Broking","DateofArchival":"Wed Jan 16 00:00:00 IST 2019","Product":"LAS","SBU":"Prime Services","ProcessCompleteDate":"Wed Jan 16 14:40:04 IST 2019","WFCreatedate":"Wed Jan 16 14:32:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"Wed Jan 16 14:42:09 IST 2019","UniqueId":"Test2LAS","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test2","Entity":"Edelweiss Custodial Services Limited"}]:::: event log Count::::
+2019-01-17 16:53:25 INFO  Eventlogreport:81 - Client value:::::3
+2019-01-17 16:53:25 INFO  Eventlogreport:81 - Client value:::::
+2019-01-17 16:53:25 INFO  Eventlogreport:81 - Client value:::::
+2019-01-17 16:53:25 INFO  Eventlogreport:81 - Client value:::::TestClient
+2019-01-17 16:53:25 INFO  Eventlogreport:81 - Client value:::::TestClient
+2019-01-17 16:53:25 INFO  Eventlogreport:81 - Client value:::::TestClient
+2019-01-17 16:53:25 INFO  Eventlogreport:81 - Client value:::::Test
+2019-01-17 16:53:25 INFO  Eventlogreport:81 - Client value:::::Test
+2019-01-17 16:53:25 INFO  Eventlogreport:81 - Client value:::::Test
+2019-01-17 16:53:25 INFO  Eventlogreport:81 - Client value:::::Test
+2019-01-17 16:53:25 INFO  Eventlogreport:81 - Client value:::::Test
+2019-01-17 16:53:25 INFO  Eventlogreport:81 - Client value:::::Test
+2019-01-17 16:53:25 INFO  EdelweissOperation:216 - Final JONarray:::::[{"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:09:15 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"In Progress","RecordName":"IM AGREEMENT","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 12:50:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Securities (Hong Kong) Private Limited"}, {"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:12:06 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"Archived","RecordName":"MLA","LOB":"Prime Broking","DateofArchival":"Wed Jan 16 00:00:00 IST 2019","Product":"LAS","SBU":"Prime Services","ProcessCompleteDate":"Wed Jan 16 14:40:04 IST 2019","WFCreatedate":"Wed Jan 16 14:32:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"Wed Jan 16 14:42:09 IST 2019","UniqueId":"Test2LAS","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test2","Entity":"Edelweiss Custodial Services Limited"}]
+2019-01-17 16:53:25 INFO  FinalReport:42 - ++++++++++++++++++++[{"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:09:15 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"In Progress","RecordName":"IM AGREEMENT","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 12:50:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Securities (Hong Kong) Private Limited"}, {"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:12:06 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"Archived","RecordName":"MLA","LOB":"Prime Broking","DateofArchival":"Wed Jan 16 00:00:00 IST 2019","Product":"LAS","SBU":"Prime Services","ProcessCompleteDate":"Wed Jan 16 14:40:04 IST 2019","WFCreatedate":"Wed Jan 16 14:32:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"Wed Jan 16 14:42:09 IST 2019","UniqueId":"Test2LAS","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test2","Entity":"Edelweiss Custodial Services Limited"}]
+2019-01-17 16:53:26 INFO  FinalReport:59 - Final json array object data:::::::::::::[{"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:09:15 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"In Progress","RecordName":"IM AGREEMENT","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 12:50:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Securities (Hong Kong) Private Limited"}, {"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:12:06 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"Archived","RecordName":"MLA","LOB":"Prime Broking","DateofArchival":"Wed Jan 16 00:00:00 IST 2019","Product":"LAS","SBU":"Prime Services","ProcessCompleteDate":"Wed Jan 16 14:40:04 IST 2019","WFCreatedate":"Wed Jan 16 14:32:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"Wed Jan 16 14:42:09 IST 2019","UniqueId":"Test2LAS","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test2","Entity":"Edelweiss Custodial Services Limited"}]
+2019-01-17 16:53:26 INFO  FinalReport:62 - Final json array object data[{"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:09:15 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"In Progress","RecordName":"IM AGREEMENT","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 12:50:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Securities (Hong Kong) Private Limited"}, {"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:12:06 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"Archived","RecordName":"MLA","LOB":"Prime Broking","DateofArchival":"Wed Jan 16 00:00:00 IST 2019","Product":"LAS","SBU":"Prime Services","ProcessCompleteDate":"Wed Jan 16 14:40:04 IST 2019","WFCreatedate":"Wed Jan 16 14:32:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"Wed Jan 16 14:42:09 IST 2019","UniqueId":"Test2LAS","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test2","Entity":"Edelweiss Custodial Services Limited"}]
+2019-01-17 16:53:26 INFO  FinalReport:72 - status of work item:::In Progress
+2019-01-17 16:53:26 INFO  FinalReport:72 - status of work item:::In Progress
+2019-01-17 16:53:26 INFO  FinalReport:72 - status of work item:::In Progress
+2019-01-17 16:53:26 INFO  FinalReport:72 - status of work item:::Archived
+2019-01-17 16:53:26 INFO  FinalReport:89 - nextPending
+2019-01-17 16:53:26 INFO  FinalReport:108 - Status of count :::::::::::::::::::::::Status.Pending
+2019-01-17 16:53:26 INFO  FinalReport:89 - nextIn Progress
+2019-01-17 16:53:26 INFO  FinalReport:108 - Status of count :::::::::::::::::::::::Status.In Progress
+2019-01-17 16:53:26 INFO  FinalReport:89 - nextPending for dispatch
+2019-01-17 16:53:26 INFO  FinalReport:108 - Status of count :::::::::::::::::::::::Status.Pending for dispatch
+2019-01-17 16:53:26 INFO  FinalReport:89 - nextDispatched
+2019-01-17 16:53:26 INFO  FinalReport:108 - Status of count :::::::::::::::::::::::Status.Dispatched
+2019-01-17 16:53:26 INFO  FinalReport:89 - nextArchived
+2019-01-17 16:53:26 INFO  FinalReport:108 - Status of count :::::::::::::::::::::::Status.Archived
+2019-01-17 16:53:26 INFO  Mailcomponenet:40 - Entered into sendEmailTemplate method in SendMail Class
+2019-01-17 16:53:26 INFO  Mailcomponenet:107 - Sending
+2019-01-17 16:53:29 INFO  Mailcomponenet:113 - Done
+2019-01-17 16:53:29 INFO  Mailcomponenet:116 - message sent....
+2019-01-17 16:53:29 INFO  Mailcomponenet:139 - Ended into sendEmailTemplate method in SendMail Class
+2019-01-17 16:56:56 INFO  DBdatacapreport:33 - **** Enter class EzJava
+2019-01-17 16:56:56 INFO  DBdatacapreport:40 - **** Loaded the JDBC driver
+2019-01-17 16:56:57 INFO  DBdatacapreport:45 - **** Created a JDBC connection to the data sourcecom.ibm.db2.jcc.t4.b@17eaaca
+2019-01-17 16:56:57 INFO  DBdatacapreport:48 - **** Created JDBC Statement object
+2019-01-17 16:56:57 INFO  DBdatacapreport:51 - **** Created JDBC ResultSet object
+2019-01-17 16:56:57 INFO  DBdatacapreport:58 - Status of pending documents Count= 0
+2019-01-17 16:56:57 INFO  DBdatacapreport:62 - **** Fetched all rows from JDBC ResultSet
+2019-01-17 16:56:57 INFO  DBdatacapreport:65 - **** Closed JDBC ResultSet
+2019-01-17 16:56:57 INFO  DBdatacapreport:68 - **** Closed JDBC Statement
+2019-01-17 16:56:57 INFO  DBdatacapreport:71 - **** Transaction committed
+2019-01-17 16:56:57 INFO  DBdatacapreport:74 - **** Disconnected from data source
+2019-01-17 16:56:57 INFO  DBdatacapreport:76 - **** JDBC Exit from class EzJava - no errors
+2019-01-17 16:56:57 INFO  EdelweissOperation:70 - com.mits.edelweis.export.FileNetConnection@625c49
+2019-01-17 16:56:57 INFO  FileNetConnection:90 - Encry :::::::pw21B6B1CE113C07DB5206279B2BF29DE6
+2019-01-17 16:56:57 INFO  FileNetConnection:92 - decryptPW :::::::pwmits123$
+2019-01-17 16:56:57 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-17 16:56:57 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-17 16:56:57 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-17 16:56:57 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-17 16:56:57 INFO  FileNetConnection:108 - true
+2019-01-17 16:56:58 INFO  FileNetConnection:109 - VWSession=PECON
+2019-01-17 16:56:58 INFO  FileNetConnection:110 - Log on succesful
+2019-01-17 16:56:58 INFO  EdelweissOperation:72 - createPEConnection+++++++PECON
+2019-01-17 16:56:58 INFO  EdelweissOperation:73 - this is session++++true
+2019-01-17 16:56:58 INFO  EdelweissOperation:82 - wob param value:::::::::::::Prime Broking
+2019-01-17 16:56:58 INFO  EdelweissOperation:83 - wob param value Client:::::::::::::Test
+2019-01-17 16:56:58 INFO  EdelweissOperation:84 - wob param value PacketId:::::::::::::null
+2019-01-17 16:56:58 INFO  EdelweissOperation:85 - value:::::::::::Test
+2019-01-17 16:56:58 INFO  EdelweissOperation:101 - jsonObject::::::::::::::{"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","Product":"AIF","SBU":"Prime Services","TagDate":"01\/04\/2019 11:55:48","UniqueId":"TestAIF","ScanDate":"01\/04\/2019 11:55:48","Client":"Test","Entity":"Edelweiss Financial Services Inc."}
+2019-01-17 16:56:58 INFO  EdelweissOperation:144 - date value Thu Jan 17 14:09:15 IST 2019
+2019-01-17 16:56:58 INFO  EdelweissOperation:149 - field valuesIn Progress
+2019-01-17 16:56:58 INFO  EdelweissOperation:154 - field values after if
+2019-01-17 16:56:58 INFO  EdelweissOperation:164 - Date of Archival:::::::::::Fri Jan 04 11:55:48 IST 2019
+2019-01-17 16:56:58 INFO  EdelweissOperation:82 - wob param value:::::::::::::Prime Broking
+2019-01-17 16:56:58 INFO  EdelweissOperation:83 - wob param value Client:::::::::::::Test
+2019-01-17 16:56:58 INFO  EdelweissOperation:84 - wob param value PacketId:::::::::::::null
+2019-01-17 16:56:58 INFO  EdelweissOperation:85 - value:::::::::::Test
+2019-01-17 16:56:58 INFO  EdelweissOperation:101 - jsonObject::::::::::::::{"Status":"In Progress","RecordName":"IM AGREEMENT","LOB":"Prime Broking","Product":"AIF","SBU":"Prime Services","TagDate":"01\/04\/2019 11:55:48","UniqueId":"TestAIF","ScanDate":"01\/04\/2019 11:55:48","Client":"Test","Entity":"Edelweiss Securities (Hong Kong) Private Limited"}
+2019-01-17 16:56:58 INFO  EdelweissOperation:144 - date value Thu Jan 17 12:50:57 IST 2019
+2019-01-17 16:56:58 INFO  EdelweissOperation:149 - field valuesIn Progress
+2019-01-17 16:56:58 INFO  EdelweissOperation:154 - field values after if
+2019-01-17 16:56:58 INFO  EdelweissOperation:164 - Date of Archival:::::::::::Fri Jan 04 11:55:48 IST 2019
+2019-01-17 16:56:58 INFO  EdelweissOperation:82 - wob param value:::::::::::::Prime Broking
+2019-01-17 16:56:58 INFO  EdelweissOperation:83 - wob param value Client:::::::::::::Test
+2019-01-17 16:56:58 INFO  EdelweissOperation:84 - wob param value PacketId:::::::::::::null
+2019-01-17 16:56:58 INFO  EdelweissOperation:85 - value:::::::::::Test
+2019-01-17 16:56:58 INFO  EdelweissOperation:101 - jsonObject::::::::::::::{"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","Product":"AIF","SBU":"Prime Services","TagDate":"01\/04\/2019 11:55:48","UniqueId":"TestAIF","ScanDate":"01\/04\/2019 11:55:48","Client":"Test","Entity":"Edelweiss Financial Services Inc."}
+2019-01-17 16:56:58 INFO  EdelweissOperation:144 - date value Thu Jan 17 14:12:06 IST 2019
+2019-01-17 16:56:58 INFO  EdelweissOperation:149 - field valuesIn Progress
+2019-01-17 16:56:58 INFO  EdelweissOperation:154 - field values after if
+2019-01-17 16:56:58 INFO  EdelweissOperation:164 - Date of Archival:::::::::::Fri Jan 04 11:55:48 IST 2019
+2019-01-17 16:56:58 INFO  EdelweissOperation:206 - JSONNarray:::::[{"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:09:15 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"In Progress","RecordName":"IM AGREEMENT","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 12:50:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Securities (Hong Kong) Private Limited"}, {"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:12:06 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}]::::Roster In Progress Count::::3
+2019-01-17 16:56:58 INFO  Eventlogreport:51 - com.mits.edelweis.export.FileNetConnection@c424a4
+2019-01-17 16:56:58 INFO  FileNetConnection:90 - Encry :::::::pw21B6B1CE113C07DB5206279B2BF29DE6
+2019-01-17 16:56:58 INFO  FileNetConnection:92 - decryptPW :::::::pwmits123$
+2019-01-17 16:56:58 INFO  FileNetConnection:108 - true
+2019-01-17 16:56:58 INFO  FileNetConnection:109 - VWSession=PECON
+2019-01-17 16:56:58 INFO  FileNetConnection:110 - Log on succesful
+2019-01-17 16:56:58 INFO  Eventlogreport:54 - createPEConnection+++++++PECON
+2019-01-17 16:56:58 INFO  Eventlogreport:55 - this is session++++true
+2019-01-17 16:56:58 INFO  Eventlogreport:58 - Before Event log
+2019-01-17 16:56:58 INFO  Eventlogreport:71 - Log Element Count: 13
+2019-01-17 16:56:58 INFO  Eventlogreport:81 - Client value:::::Test2
+2019-01-17 16:56:58 INFO  Eventlogreport:101 - WF_Created date::::::::::::::01/16/2019 14:32:57
+2019-01-17 16:56:58 INFO  Eventlogreport:102 - jsonObject::::::::::::::{"Status":"Archived","RecordName":"MLA","LOB":"Prime Broking","Product":"LAS","SBU":"Prime Services","UniqueId":"Test2LAS","Client":"Test2","Entity":"Edelweiss Custodial Services Limited"}
+2019-01-17 16:56:58 INFO  Eventlogreport:139 - date value Wed Jan 16 14:32:57 IST 2019
+2019-01-17 16:56:58 INFO  Eventlogreport:154 - JSONarray:::::[{"Status":"Archived","RecordName":"MLA","LOB":"Prime Broking","DateofArchival":"Wed Jan 16 00:00:00 IST 2019","Product":"LAS","SBU":"Prime Services","ProcessCompleteDate":"Wed Jan 16 14:40:04 IST 2019","WFCreatedate":"Wed Jan 16 14:32:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"Wed Jan 16 14:42:09 IST 2019","UniqueId":"Test2LAS","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test2","Entity":"Edelweiss Custodial Services Limited"}]:::: event log Count::::
+2019-01-17 16:56:58 INFO  Eventlogreport:81 - Client value:::::3
+2019-01-17 16:56:58 INFO  Eventlogreport:81 - Client value:::::
+2019-01-17 16:56:58 INFO  Eventlogreport:81 - Client value:::::
+2019-01-17 16:56:58 INFO  Eventlogreport:81 - Client value:::::TestClient
+2019-01-17 16:56:58 INFO  Eventlogreport:81 - Client value:::::TestClient
+2019-01-17 16:56:58 INFO  Eventlogreport:81 - Client value:::::TestClient
+2019-01-17 16:56:58 INFO  Eventlogreport:81 - Client value:::::Test
+2019-01-17 16:56:58 INFO  Eventlogreport:81 - Client value:::::Test
+2019-01-17 16:56:58 INFO  Eventlogreport:81 - Client value:::::Test
+2019-01-17 16:56:58 INFO  Eventlogreport:81 - Client value:::::Test
+2019-01-17 16:56:58 INFO  Eventlogreport:81 - Client value:::::Test
+2019-01-17 16:56:58 INFO  Eventlogreport:81 - Client value:::::Test
+2019-01-17 16:56:58 INFO  EdelweissOperation:216 - Final JONarray:::::[{"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:09:15 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"In Progress","RecordName":"IM AGREEMENT","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 12:50:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Securities (Hong Kong) Private Limited"}, {"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:12:06 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"Archived","RecordName":"MLA","LOB":"Prime Broking","DateofArchival":"Wed Jan 16 00:00:00 IST 2019","Product":"LAS","SBU":"Prime Services","ProcessCompleteDate":"Wed Jan 16 14:40:04 IST 2019","WFCreatedate":"Wed Jan 16 14:32:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"Wed Jan 16 14:42:09 IST 2019","UniqueId":"Test2LAS","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test2","Entity":"Edelweiss Custodial Services Limited"}]
+2019-01-17 16:56:58 INFO  FinalReport:42 - ++++++++++++++++++++[{"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:09:15 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"In Progress","RecordName":"IM AGREEMENT","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 12:50:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Securities (Hong Kong) Private Limited"}, {"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:12:06 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"Archived","RecordName":"MLA","LOB":"Prime Broking","DateofArchival":"Wed Jan 16 00:00:00 IST 2019","Product":"LAS","SBU":"Prime Services","ProcessCompleteDate":"Wed Jan 16 14:40:04 IST 2019","WFCreatedate":"Wed Jan 16 14:32:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"Wed Jan 16 14:42:09 IST 2019","UniqueId":"Test2LAS","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test2","Entity":"Edelweiss Custodial Services Limited"}]
+2019-01-17 16:56:58 INFO  FinalReport:59 - Final json array object data:::::::::::::[{"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:09:15 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"In Progress","RecordName":"IM AGREEMENT","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 12:50:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Securities (Hong Kong) Private Limited"}, {"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:12:06 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"Archived","RecordName":"MLA","LOB":"Prime Broking","DateofArchival":"Wed Jan 16 00:00:00 IST 2019","Product":"LAS","SBU":"Prime Services","ProcessCompleteDate":"Wed Jan 16 14:40:04 IST 2019","WFCreatedate":"Wed Jan 16 14:32:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"Wed Jan 16 14:42:09 IST 2019","UniqueId":"Test2LAS","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test2","Entity":"Edelweiss Custodial Services Limited"}]
+2019-01-17 16:56:58 INFO  FinalReport:62 - Final json array object data[{"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:09:15 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"In Progress","RecordName":"IM AGREEMENT","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 12:50:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Securities (Hong Kong) Private Limited"}, {"Status":"In Progress","RecordName":"LIST OF SIGNATORIES","LOB":"Prime Broking","DateofArchival":"","Product":"AIF","SBU":"Prime Services","ProcessCompleteDate":"","WFCreatedate":"Thu Jan 17 14:12:06 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"","UniqueId":"TestAIF","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test","Entity":"Edelweiss Financial Services Inc."}, {"Status":"Archived","RecordName":"MLA","LOB":"Prime Broking","DateofArchival":"Wed Jan 16 00:00:00 IST 2019","Product":"LAS","SBU":"Prime Services","ProcessCompleteDate":"Wed Jan 16 14:40:04 IST 2019","WFCreatedate":"Wed Jan 16 14:32:57 IST 2019","TagDate":"Fri Jan 04 11:55:48 IST 2019","DispatchDate":"Wed Jan 16 14:42:09 IST 2019","UniqueId":"Test2LAS","ScanDate":"Fri Jan 04 11:55:48 IST 2019","Client":"Test2","Entity":"Edelweiss Custodial Services Limited"}]
+2019-01-17 16:56:58 INFO  FinalReport:72 - status of work item:::In Progress
+2019-01-17 16:56:58 INFO  FinalReport:72 - status of work item:::In Progress
+2019-01-17 16:56:58 INFO  FinalReport:72 - status of work item:::In Progress
+2019-01-17 16:56:58 INFO  FinalReport:72 - status of work item:::Archived
+2019-01-17 16:56:58 INFO  FinalReport:89 - nextPending
+2019-01-17 16:56:58 INFO  FinalReport:108 - Status of count :::::::::::::::::::::::Status.Pending
+2019-01-17 16:56:58 INFO  FinalReport:89 - nextIn Progress
+2019-01-17 16:56:58 INFO  FinalReport:108 - Status of count :::::::::::::::::::::::Status.In Progress
+2019-01-17 16:56:58 INFO  FinalReport:89 - nextPending for dispatch
+2019-01-17 16:56:58 INFO  FinalReport:108 - Status of count :::::::::::::::::::::::Status.Pending for dispatch
+2019-01-17 16:56:58 INFO  FinalReport:89 - nextDispatched
+2019-01-17 16:56:58 INFO  FinalReport:108 - Status of count :::::::::::::::::::::::Status.Dispatched
+2019-01-17 16:56:58 INFO  FinalReport:89 - nextArchived
+2019-01-17 16:56:58 INFO  FinalReport:108 - Status of count :::::::::::::::::::::::Status.Archived
+2019-01-17 16:56:58 INFO  Mailcomponenet:40 - Entered into sendEmailTemplate method in SendMail Class
+2019-01-17 16:56:58 INFO  Mailcomponenet:107 - Sending
+2019-01-17 16:57:02 INFO  Mailcomponenet:113 - Done
+2019-01-17 16:57:02 INFO  Mailcomponenet:116 - message sent....
+2019-01-17 16:57:02 INFO  Mailcomponenet:139 - Ended into sendEmailTemplate method in SendMail Class

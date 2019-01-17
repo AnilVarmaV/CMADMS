@@ -1,0 +1,126 @@
+2019-01-05 16:10:54 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\New folder
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-05 16:10:54 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-05 16:10:56 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-05 16:10:56 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-07 09:57:45 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-07 09:57:45 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-07 09:57:45 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-07 09:57:45 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-11 17:42:53 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-11 17:42:53 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-11 17:42:54 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-11 17:42:54 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-11 19:35:36 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-11 19:35:36 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-11 19:35:36 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-11 19:35:36 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-11 19:42:49 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-11 19:42:49 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-11 19:42:49 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-11 19:42:49 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-11 19:46:26 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-11 19:46:26 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-11 19:46:26 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-11 19:46:26 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-11 19:47:00 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-11 19:47:00 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-11 19:47:00 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-11 19:47:00 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-11 19:48:59 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-11 19:49:00 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-11 19:49:00 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-11 19:49:00 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-11 21:00:50 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-11 21:00:50 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-11 21:00:50 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-11 21:00:50 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-11 21:01:04 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-11 21:01:04 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-11 21:01:04 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-11 21:01:04 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-11 21:01:22 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-11 21:01:22 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-11 21:01:22 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-11 21:01:22 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-11 22:40:26 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-11 22:40:26 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-11 22:40:26 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-11 22:40:26 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-11 22:41:58 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-11 22:41:58 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-11 22:41:58 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-11 22:41:58 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-11 22:43:17 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-11 22:43:17 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-11 22:43:17 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-11 22:43:17 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-11 22:44:46 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-11 22:44:46 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-11 22:44:47 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-11 22:44:47 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-11 22:59:20 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-11 22:59:20 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-11 22:59:20 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-11 22:59:20 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-11 23:04:17 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-11 23:04:17 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-11 23:04:17 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-11 23:04:17 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+2019-01-11 23:05:25 INFO  ConfigValueLookup:135 - Configuration property file search order:
+    user.dir = C:\Users\mitsind508\Desktop\Report Utility
+    user.home = C:\Users\mitsind508
+    java.home = C:\Program Files (x86)\Java\jdk1.7.0_17\jre
+2019-01-11 23:05:25 INFO  ConfigValueLookup:135 - Loading configuration resource: FileNetBuild.properties
+2019-01-11 23:05:25 INFO  AuthnUtil:25 - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+2019-01-11 23:05:25 WARN  J2EEUtil:467 - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
