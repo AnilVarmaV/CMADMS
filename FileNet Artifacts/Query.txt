@@ -1,0 +1,1 @@
+SELECT count as pendingBatches FROM "QUEUE" WHERE qu_task='Verify' and (qu_Status='pending' OR qu_Status='hold')
